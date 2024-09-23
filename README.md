@@ -1,5 +1,5 @@
-<p># Blog-Api</p>p>
-<p>Simple Blog Api using Spring Boot and MYSQL.
+<p># Blog-Api</p>
+<p>#Simple Blog Api using Spring Boot and MYSQL.
 </p>
 
 <p>#Running the App</p>
