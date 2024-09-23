@@ -1,9 +1,10 @@
-<p># Blog-Api
-Simple Blog Api using Spring Boot and MYSQL.
+<p># Blog-Api</p>p>
+<p>Simple Blog Api using Spring Boot and MYSQL.
 </p>
 
-<p>#Running the App
-Clone the Code using git
-Create a db in mysql with the blog schema.
-Edit the username and password in the application.properties file as per your dbusername and password.
-Run the BlogapiApplication.java 
+<p>#Running the App</p>
+<p>Clone the Code using git</p>
+<p>Create a db in mysql with the blog schema.</p>
+<p>Edit the username and password in the application.properties file as per your dbusername and password.</p>
+<p>Run the BlogapiApplication.java 
+</p>
